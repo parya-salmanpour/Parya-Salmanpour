@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Parya 👋
 
-<!--
-**parya-salmanpour/Parya-Salmanpour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Engineering student interested in Artificial Intelligence, Machine Learning, Deep Learning and Computer Vision.
 
-Here are some ideas to get you started:
+I am currently learning and building projects in Python, Machine Learning, and Deep Learning. I enjoy exploring AI technologies and applying them to real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+### Programming
+- Python
+- Java
+- C
+- SQL
+
+### Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Data Analysis
+
+### Tools
+- Git & GitHub
+- Jupyter Notebook
+- Linux
+
+## Projects
+
+### ESC-10 Environmental Sound Classification
+Machine learning project focused on classifying environmental sounds using Python and AI techniques.
+
+More projects coming soon...
+
+## Currently Learning
+
+- Machine Learning
+- Deep Learning
+- Computer Vision
+- Artificial Intelligence Applications
+
+## Contact
+
+LinkedIn: Coming soon

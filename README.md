@@ -23,6 +23,26 @@ I am currently learning and building projects in Python, Machine Learning, and D
 - Jupyter Notebook
 - Linux
 
+  ## Education & Coursework
+
+### Harvard CS50x – Introduction to Computer Science
+
+I have worked through Harvard University's CS50x coursework, gaining hands-on experience in programming fundamentals, algorithms, data structures, memory management, databases, and web development.
+
+**Key Topics:**
+- C Programming
+- Algorithms & Data Structures
+- Memory Management
+- Python Programming
+- SQL & Database Management
+- Web Development (HTML, CSS, JavaScript, Flask)
+
+**Coursework:** Programming exercises and problem sets completed across multiple weeks.
+
+**Current Status:** Final project in progress.
+
+*Note: My CS50x problem-set solutions are maintained in a private repository in accordance with the course's academic honesty guidelines.*
+
 ## Projects
 
 ### ESC-10 Environmental Sound Classification

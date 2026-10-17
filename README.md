@@ -46,7 +46,11 @@ I have worked through Harvard University's CS50x coursework, gaining hands-on ex
 ## Projects
 
 ### ESC-10 Environmental Sound Classification
-Machine learning project focused on classifying environmental sounds using Python and AI techniques.
+Machine learning project focused on classifying environmental sounds using Python and Machine Learning techniques. This project is my undergraduate thesis project and is not publicly available.
+I plan to share more details when it is ready for release.
+
+### Student Performance Prediction
+A machine learning project exploring student performance prediction using Python and scikit-learn. The project includes data exploration, model training, evaluation, and feature importance analysis.
 
 More projects coming soon...
 
